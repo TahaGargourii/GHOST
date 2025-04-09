@@ -27,7 +27,12 @@ export const metadata: Metadata = {
   title: "GHOST | The Wolf is Back",
   description:
     "GHOST is a memecoin born from science fiction turned reality — inspired by the resurrection of the extinct dire wolf through cutting-edge genetics.",
-    generator: 'v0.dev'
+  icons: {
+    icon: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dire-RU7KCaEc3IqMIxUgWWJ0ZVVGkLUMZa.png",
+    shortcut: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dire-RU7KCaEc3IqMIxUgWWJ0ZVVGkLUMZa.png",
+    apple: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dire-RU7KCaEc3IqMIxUgWWJ0ZVVGkLUMZa.png",
+  },
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
