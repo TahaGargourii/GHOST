@@ -59,7 +59,7 @@ export default function Home() {
               About
             </Link>
             <Link
-              href="https://pump.fun"
+              href="https://pump.fun/coin/4egq8ZNQFR6Lf6RMZ74ALyXwvcjJ54UfVnnWri2zpump"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1 text-sm bg-cyan-500 hover:bg-cyan-600 text-black px-4 py-2 rounded-full transition-colors font-rajdhani"
@@ -86,7 +86,7 @@ export default function Home() {
                 About
               </Link>
               <Link
-                href="https://pump.fun"
+                href="https://pump.fun/coin/4egq8ZNQFR6Lf6RMZ74ALyXwvcjJ54UfVnnWri2zpump"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-1 text-sm bg-cyan-500 hover:bg-cyan-600 text-black px-4 py-2 rounded-full transition-colors font-rajdhani"
@@ -147,7 +147,7 @@ export default function Home() {
               className="flex flex-col sm:flex-row gap-4 justify-center mb-16"
             >
               <Link
-                href="https://pump.fun"
+                href="https://pump.fun/coin/4egq8ZNQFR6Lf6RMZ74ALyXwvcjJ54UfVnnWri2zpump"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-cyan-500 hover:bg-cyan-600 text-black px-8 py-3 rounded-full transition-all hover:scale-105 font-medium font-rajdhani"
@@ -309,7 +309,7 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
-                href="https://pump.fun"
+                href="https://pump.fun/coin/4egq8ZNQFR6Lf6RMZ74ALyXwvcjJ54UfVnnWri2zpump"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-cyan-500 hover:bg-cyan-600 text-black px-8 py-3 rounded-full transition-all hover:scale-105 font-medium font-rajdhani"
